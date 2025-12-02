@@ -1,10 +1,10 @@
 {
     "$schema": "https://www.raycast.com/schemas/extension.json",
     "name": "uptime-raycast",
-    "title": "Uptime Raycast",
+    "title": "System Uptime",
     "description": "Check the uptime of the system",
-    "icon": "assets/command-icon.png",
-    "author": "raycast",
+    "icon": "icon.png",
+    "author": "ranit",
     "categories": [
         "System"
     ],
@@ -40,5 +40,10 @@
     },
     "overrides": {
         "@types/react": "18.2.0"
+    },
+    "eslintConfig": {
+        "extends": [
+            "@raycast"
+        ]
     }
 }
