@@ -1,6 +1,6 @@
 # System Uptime
 
-Check the uptime of your system directly from Raycast.
+Check the uptime of your system directly from Raycast for Windows.
 
 ## Features
 
